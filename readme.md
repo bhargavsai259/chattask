@@ -3,3 +3,5 @@ pip install fastapi uvicorn
 pip install sqlalchemy psycopg2-binary
 
 pip install sentence-transformers numpy
+
+pip install faiss-cpu numpy
